@@ -1,5 +1,5 @@
 # humhub_blue_theme
-A Blue Theme for HumHub Version  1.9+
+A Blue Theme for HumHub Version  1.10+
 
 Edited and updated by **WebCrew** / Andreas Holzer - [net-twin.de](https://bit.ly/31fFCo6)
 
