@@ -5,11 +5,11 @@ Edited and updated by **WebCrew** / Andreas Holzer - [net-twin.de](https://bit.l
 
 ##Info
 
-This theme was created with changes to the **theme.css** file only. This has the small advantage that this theme will continue to work even after HumHub updates (i.e. it does not degenerate into another GitHub / HumHub project corpse, **as usual**). 
+This theme was created with changes to the _theme.css_ file only. This has the small advantage that this theme will continue to work even after HumHub updates (i.e. it does not degenerate into another GitHub / HumHub project corpse, _as usual_). 
 
-However, I have **not adapted** every single module CSS file to the blue style - that remains the task of the **module developer** or that of the **site operator**. I will possibly update this theme after HH updates if this is necessary. Otherwise, it remains the responsibility of the HH site operator to keep his theme in good condition. 
+However, I have _not adapted_ every single module CSS file to the blue style - that remains the task of the _module developer_ or that of the _site operator_. I will possibly update this theme after HH updates if this is necessary. Otherwise, it remains the responsibility of the HH site operator to keep his theme in good condition. 
 
-I am making this theme available to everyone **for free**. If you want to thank me, please give me a **STAR** or **DONATE** a little something - a link to a donation form can be found below in the readme. However, I don't assume that very few people want to donate because, as advertising teaches us, **Avarice is cool** (**not** my opinion)
+I am making this theme available to everyone _for free_. If you want to thank me, please give me a _STAR_ or _DONATE_ a little something - a link to a donation form can be found below in the readme. However, I don't assume that very few people want to donate because, as advertising teaches us, _Avarice is cool_ (_not_ my opinion, because if one gives a little in return some develops would maybe do a little more for some projects like HumHub - _no one realy wants to work for nothing_)
 
 **Kind rergards**, Andy (WebCrew)
 
