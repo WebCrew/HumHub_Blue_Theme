@@ -1,7 +1,7 @@
 # humhub_blue_theme
 A Blue Theme for HumHub Version  1.9+
 
-Edited and updated by **WebCrew** / Andreas Holzer - [crazymates.de](https://crazymates.de)
+Edited and updated by **WebCrew** / Andreas Holzer - [net-twin.de](https://bit.ly/31fFCo6)
 
 This theme was created with changes to the theme.css file only. This has the small advantage that this theme will continue to work even after HumHub updates (i.e. it does not degenerate into another GitHib / HumHub project corpse, as usual). 
 
@@ -27,4 +27,4 @@ Kind rergards, Andy (WebCrew)
 ## Donate
 https://ko-fi.com/nettwin
 
-**WebCrew** / Andreas Holzer - [crazymates.de](https://crazymates.de)
+**WebCrew** / Andreas Holzer - [net-twin.de](https://bit.ly/31fFCo6)
