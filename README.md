@@ -12,7 +12,7 @@ I am making this theme available to everyone for free. If you want to thank me, 
 Kind rergards, Andy (WebCrew)
 
 
-![Blue](https://raw.githubusercontent.com/WebCrew/humhub_blue_theme/master/screenshot/blue.jpg)
+![Blue](https://github.com/WebCrew/humhub_blue_theme/blob/main/blue.png)
 
 ## Features
 - CSS driven only
