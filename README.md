@@ -3,7 +3,7 @@ A Blue Theme for HumHub Version  1.9+
 
 Edited and updated by **WebCrew** / Andreas Holzer - [net-twin.de](https://bit.ly/31fFCo6)
 
-##Info
+## Info
 
 This theme was created with changes to the _theme.css_ file only. This has the small advantage that this theme will continue to work even after HumHub updates (i.e. it does not degenerate into another GitHub / HumHub project corpse, _as usual_). 
 
